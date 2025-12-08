@@ -31,7 +31,7 @@ Initial scan:
 
 
 Open ports:
-- **80** — social network  
+- **8000** — social network  
 - **8080 / 13400** — login panels  
 - **13401–13404** — backend APIs  
 - **9001** — likely SCADA  
