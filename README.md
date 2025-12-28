@@ -39,15 +39,17 @@ Ports 13401–13404 return: `unauthorized`.
 
 ---
 
-## 2. Gaining Initial Access
+## 2. OSINT
 
-Port 8000 hosts a social network. Creating an account reveals Hopkins’s accidental password leak — `Pizza1234$`, but it’s changed.  
+Port 8000 hosts a social network (FakeBook). Creating an account reveals Hopkins’s accidental password leak — `Pizza1234$`, but it’s changed.  
 Profile info:
 - Email: `guard.hopkins@hopsecasylum.com`
 - Birth year: **1982**
 - Pet: **Johnnyboy**
 
-Password derivation gives valid login:
+Using information gathered from FakeBook,built a wordlist of possible passwords through word combinations.
+
+**Password derivation gives valid login:**
 
 ``Johnnyboy1982!``
 
