@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - Enumeration  
-- Gaining Initial Access  
+- OSINT  
 - Identifying the Target User (Hopkins)  
 - Accessing the Asylum Map Console  
 - Privilege Escalation Inside the Video Portal  
