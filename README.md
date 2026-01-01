@@ -61,7 +61,7 @@ Using information gathered from FakeBook,built a wordlist of possible passwords 
 Port 8080 references Hopkins.  
 Logging in reveals Asylum Map System.  
 Flag #1:
-``THM{h0pp1ing_m4d}``
+``THM{}``
 
 ---
 
@@ -153,7 +153,7 @@ Video reveals keypad code: **115879**
 
 Entering code into 8080 → psych door gives:
 
-**THM{Y0u_h4ve_b3en_**
+**THM{}**
 
 
 <img width="533" height="371" alt="image" src="https://github.com/user-attachments/assets/9d0f1d0c-e1d8-4f06-8c88-b974132da7d1" />
