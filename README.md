@@ -156,7 +156,8 @@ Entering code into 8080 → psych door gives:
 **THM{}**
 
 
-<img width="533" height="371" alt="image" src="https://github.com/user-attachments/assets/9d0f1d0c-e1d8-4f06-8c88-b974132da7d1" />
+<img width="533" height="371" alt="image" src="https://github.com/user-attachments/assets/07236f7a-6485-487f-b80c-d7fab48573a5" />
+
 
 
 
@@ -289,11 +290,13 @@ Final flag retrieved (flag #3).
 
 
 
-<img width="510" height="375" alt="image" src="https://github.com/user-attachments/assets/b184b3ca-0e2f-4de6-96c7-ae42632b145d" />
+<img width="510" height="375" alt="image" src="https://github.com/user-attachments/assets/3fadc749-0d99-436e-82ed-0571f1e6a71c" />
 
 
 
-<img width="427" height="664" alt="image" src="https://github.com/user-attachments/assets/1e80cc3c-d76a-44a4-9625-c0a63cd1407c" />
+
+<img width="427" height="664" alt="image" src="https://github.com/user-attachments/assets/0410076a-ccae-4ce5-8569-9951888020fa" />
+
 
 
 
